@@ -1,0 +1,15 @@
+{
+  "name": "bautistago-mobile",
+  "version": "0.0.0",
+  "private": true,
+  "packageManager": "pnpm@12.18.0",
+  "license": "UNLICENSED",
+  "scripts": {
+    "dev": "turbo run dev",
+    "lint": "turbo run lint",
+    "type-check": "turbo run type-check"
+  },
+  "devDependencies": {
+    "turbo": "^2.11.10"
+  }
+}
